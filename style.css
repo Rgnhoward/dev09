@@ -1,0 +1,44 @@
+body {
+  padding-top: 1px;
+  text-align: center;
+}
+h1 {
+  color: #ffff00;
+  text-shadow: 3px 3px #660066;
+  font-family: Helvetica;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.outputText {
+  border: solid 2px;
+  background-color: yellow;
+}
+
+.blue {
+  color: blue;
+  font-size: 30px;
+  text-transform: upperCase;
+  text-shadow: 2px 2px #660066;
+}
+.bubble {
+  display: inline-block;
+}
+.draggable {
+  width: 150px;
+  height: 150px;
+  padding: 0.5em;
+  background: #eee;
+}
+div#div6 {
+  border: solid 1px;
+  background: #eee;
+  height: 30px;
+  width: 250px;
+}
