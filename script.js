@@ -42,6 +42,6 @@ $(function () {
       //Draggable text function
       //    $(function () {
       //      $("#draggable").draggable();
- }); //    });
+    }); //    });
   });
 });
